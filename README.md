@@ -28,7 +28,8 @@ Build a <a href="https://codepen.io/">CodePen.io</a> app that is functionally si
 
 The following tools were used in the construction of the project:
 
-- [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL) or
+- [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL)
+<hr>
 - HTML
 - CSS
 - [VSCode](https://code.visualstudio.com)
@@ -51,4 +52,4 @@ By Ana Torres 👋🏽 Find me!
 
 <h2 id="license"> 📝 License </h2>
 
-This project is under the <a src="./LICENSE">MIT license</a>.
+This project is under the <a src="../LICENSE">MIT license</a>.
