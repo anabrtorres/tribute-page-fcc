@@ -31,7 +31,7 @@ The following tools were used in the construction of the project:
 - HTML
 - CSS
 - [VSCode](https://code.visualstudio.com)
-Or
+
 - [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL)
 
 
@@ -52,4 +52,4 @@ By Ana Torres 👋🏽 Find me!
 
 <h2 id="license"> 📝 License </h2>
 
-This project is under the <a src="/license">MIT license</a>.
+This project is under the <a src="./LICENSE">MIT license</a>.
