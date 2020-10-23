@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-  <img width="500" style="border-radius: 10px" height="auto" alt="Happy" title="#Happy" src="/public/images/page.png" />
+  <img width="500" style="border-radius: 10px" height="auto" alt="page" src="/public/images/page.png" />
 </h1>
 
 <h4 align="center"> 
