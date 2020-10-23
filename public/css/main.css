@@ -1,0 +1,70 @@
+body {
+  font-family: Montserrat, sans-serif;
+  text-align: center;
+}
+
+#main {
+  background-color: rgba(45, 45, 45, 0.1);
+  border-radius: 10px;
+  margin: 25px 3px 25px 3px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: 800;
+  text-align: center;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+}
+
+a:hover {
+  color: #393;
+}
+
+li {
+  font-size: 18px;
+}
+
+#img-div {
+  background-color: #fbfbfb;
+  border-radius: 15px;
+  margin: 40px 60px 0px 60px;
+  padding: 15px;
+  text-align: center;
+}
+
+#image {
+  max-width: 800px;
+  height: auto;
+  padding: 0px 0px 10px 0px;
+}
+
+#list-topics {
+  max-width: 600px;
+  margin: 0 auto 40px auto;
+  line-height: 25px;
+  text-align: left;
+}
+
+#quote {
+  font-style: italic;
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
