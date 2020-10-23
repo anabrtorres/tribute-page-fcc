@@ -29,7 +29,6 @@ Build a <a href="https://codepen.io/">CodePen.io</a> app that is functionally si
 The following tools were used in the construction of the project:
 
 - [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL)
-<hr>
 - HTML
 - CSS
 - [VSCode](https://code.visualstudio.com)
