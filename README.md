@@ -16,7 +16,7 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Tribute Page | freeCodeCamp 💻 Loading... 🚧
+	🚧 Tribute Page | freeCodeCamp 💻✔️ Complete! 🚧
 </h4>
 
 <h2 id="objective" > 🎯 Objective </h2>
@@ -28,11 +28,10 @@ Build a <a href="https://codepen.io/">CodePen.io</a> app that is functionally si
 
 The following tools were used in the construction of the project:
 
+- [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL) or
 - HTML
 - CSS
 - [VSCode](https://code.visualstudio.com)
-
-- [Codepen.io](https://codepen.io/anabrtorres/full/NWNZMmL)
 
 
 <h2 id="contribution"> 🤝 Contribution </h2>
@@ -42,7 +41,7 @@ This project is for study purposes too, so send me an email telling me what you 
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/71350840?s=400&u=02afaa6318aee076b5e3a398e531296a7fb30dc0&v=4" width="100px;" alt=""/>
+<img style="{{border-radius| 50%}}" src="https://avatars3.githubusercontent.com/u/71350840?s=400&u=02afaa6318aee076b5e3a398e531296a7fb30dc0&v=4" width="100px;" alt=""/>
 
 By Ana Torres 👋🏽 Find me!
 
