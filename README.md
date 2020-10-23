@@ -1,7 +1,7 @@
 <h1 align="center">
     Tribute Page | freeCodeCamp
 </h1>
-<p align="center"> Projects of Responsive Web Design free course from freeCodeCamp 💻✔️ </p>
+<p align="center"> Project of Responsive Web Design free course from freeCodeCamp 💻✔️ </p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
