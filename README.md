@@ -22,7 +22,7 @@
 
 <h2 id="objective" > 🎯 Objective </h2>
 
-Build a <a href="https://codepen.io/">CodePen.io</a> app that is functionally similar to <a href="https://codepen.io/freeCodeCamp/full/zNqgVx">this tribute page</a>. 
+Build a <a href="https://codepen.io/" target=“_blank”>CodePen.io</a> app that is functionally similar to <a href="https://codepen.io/freeCodeCamp/full/zNqgVx" target=“_blank”>this tribute page</a>. 
 
 
 <h2 id="technologies"> 🛠 Technologies </h2>
